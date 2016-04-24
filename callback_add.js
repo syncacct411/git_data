@@ -1,14 +1,12 @@
 
 //
- function add(numbersArray, callBack)
- {
-   var result = 0;
-   for (number in numbersArray)
-   {
-     result = result + numbersArray[number];
-   }
-   callBack(result);
- }
+// function add(numbersArray, callBack){
+//   var result = 0;
+//   for (number in numbersArray){
+//     result = result + numbersArray[number];
+//   }
+//   callBack(result);
+// }
 //
 //
 // //********** METHOD 1 ************
@@ -25,6 +23,6 @@
 //     add([1,3,5,7], function(finalResult)
 //     {
 //       document.write("(METHOD 2) the total is: ", + finalResult);
-//       // console.log("(METHOD 2) the total is: ", + finalResult);
+////        console.log("(METHOD 2) the total is: ", + finalResult);
 //     });
 // //********** METHOD 2 ************
