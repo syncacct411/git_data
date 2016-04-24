@@ -1,14 +1,14 @@
 
 //
-// function add(numbersArray, callBack)
-// {
-//   var result = 0;
-//   for (number in numbersArray)
-//   {
-//     result = result + numbersArray[number];
-//   }
-//   callBack(result);
-// }
+ function add(numbersArray, callBack)
+ {
+   var result = 0;
+   for (number in numbersArray)
+   {
+     result = result + numbersArray[number];
+   }
+   callBack(result);
+ }
 //
 //
 // //********** METHOD 1 ************
