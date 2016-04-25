@@ -8,7 +8,7 @@ $ git remote -v
 orgin201        https://github.com/syncacct411/git_data.git (fetch)
 orgin201        https://github.com/syncacct411/git_data.git (push)
 
-#============================================
+#=========================================
 $ git pull https://github.com/syncacct411/git_data.git
 remote: Counting objects: 18, done.
 remote: Compressing objects: 100% (14/14), done.
